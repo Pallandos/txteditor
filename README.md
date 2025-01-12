@@ -2,6 +2,12 @@
 
 Auteur : Jean CAYLUS
 
+## REMARQUE :
+
+Le projet est fonctionnel mais avec une série d'erreur qui surviennent de manière aléatoires. Si une erreur interrompt le code, relancer et taper *doucement*.
+
+[Voir la section sur les erreurs](#erreurs)
+
 ## Le projet
 
 Ce projet consiste en la création d'un petit éditeur de texte. Mon premier objectif était d'implémenter les fonctions les plus basiques telles que :
