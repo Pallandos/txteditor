@@ -69,9 +69,9 @@ void write_task(void *arg)
 	int text_x_pos = 0;
 	int text_y_pos = 0;
 
-	while (1) {
+	uint32_t kdata;
 
-		uint32_t kdata;
+	while (1) {
 
 		xSemaphoreTake(video_refresh_semaphore, portMAX_DELAY);
 		font_8x16_draw_char(text_x_pos, text_y_pos, ' ', BLACK, WHITE);
@@ -153,7 +153,7 @@ int main()
 {
 
 	// init queue
-	kb_queue = xQueueCreate(512, sizeof(uint32_t)); // quid de la taille? 
+	kb_queue = xQueueCreate(1024, sizeof(uint32_t)); // quid de la taille? 
 
 	init_uart();
 
