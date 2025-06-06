@@ -1,7 +1,5 @@
 # Editeur de texte avec Harvey
 
-Auteur : Jean CAYLUS
-
 ## REMARQUE :
 
 Le projet est fonctionnel mais avec une série d'erreur qui surviennent de manière aléatoires. Si une erreur interrompt le code, relancer et taper *doucement*.
