@@ -2,7 +2,7 @@
 
 ## REMARQUE :
 
-Le projet est fonctionnel mais avec une série d'erreur qui surviennent de manière aléatoires. Si une erreur interrompt le code, relancer et taper *doucement*.
+Le projet est fonctionnel mais avec une série d'erreur qui surviennent de manière aléatoires. Si une erreur interrompt le code, relancer et taper *lentement*.
 
 [Voir la section sur les erreurs](#erreurs)
 
