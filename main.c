@@ -69,6 +69,7 @@ void write_task(void *arg)
 	int text_x_pos = 0;
 	int text_y_pos = 0;
 
+	
 	uint32_t kdata;
 
 	while (1) {
